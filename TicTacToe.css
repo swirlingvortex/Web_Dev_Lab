@@ -1,0 +1,54 @@
+html {
+    background-color: rgb(0, 0, 0);
+    font-family: "Comic Sans", sans-serif;
+}
+button {
+    height: 140px; 
+    width: 140px; 
+    background: url("Images/X.jpg") 
+}
+#onetone{
+    width:100px;
+    height:100px;
+    display: none;
+}
+#onettwo{
+    width:100px;
+    height:100px;
+    display: none;
+}
+#onetthree{
+    width:100px;
+    height:100px;
+    display: none;
+}
+#twotone{
+    width:100px;
+    height:100px;
+    display: none;
+}
+#twottwo{
+    width:100px;
+    height:100px;
+    display: none;
+}
+#twotthree{
+    width:100px;
+    height:100px;
+    display: none;
+}
+#threetone{
+    width:100px;
+    height:100px;
+    display: none;
+}
+#threettwo{
+    width:100px;
+    height:100px;
+    display: none;
+}
+#threetthree{
+    width:100px;
+    height:100px;
+    display: none;
+}

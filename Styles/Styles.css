@@ -1,0 +1,36 @@
+html {
+    background-color: aquamarine;
+    font-family: "Comic Sans", sans-serif;
+}
+
+
+
+
+p, li {
+    display: inline;
+    font-size:18px;
+    line-height:2;
+    letter-spacing:5px;
+}
+.bold {
+    font-weight:bold;
+}
+li.bold {
+    font-style: italic;
+}
+#plug {
+    color:blueviolet;
+}
+img {
+    display: block;
+    width: 70%;
+    margin: 0 auto;
+}
+div.coolbox {
+    border: lightblue dotted 3px;
+    padding: 20px;
+    margin: 10px;
+}
+span.lang {
+    font-family: "Courier New", Courier, monospace;
+}
