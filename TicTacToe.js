@@ -1,13 +1,21 @@
 button1 = document.querySelector("#onetone")
-button1.addEventListener("click", )
+button1.addEventListener("click", AddImage())
 button2 = document.querySelector("#onettwo")
+button2.addEventListener("click", AddImage())
 button3 = document.querySelector("#onetthree")
+button3.addEventListener("click", AddImage())
 button4 = document.querySelector("#twotone")
+button4.addEventListener("click", AddImage())
 button5 = document.querySelector("#twottwo")
+button5.addEventListener("click", AddImage())
 button6 = document.querySelector("#twotthree")
+button6.addEventListener("click", AddImage())
 button7 = document.querySelector("#threetone")
+button7.addEventListener("click", AddImage())
 button8 = document.querySelector("#threettwo")
+button8.addEventListener("click", AddImage())
 button9 = document.querySelector("#threetthree")
+button9.addEventListener("click", AddImage())
 function AddImage() {
 
 }

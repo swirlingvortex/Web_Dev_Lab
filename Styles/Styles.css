@@ -6,11 +6,9 @@ html {
 
 
 
-p, li {
-    display: inline;
+li {
     font-size:18px;
-    line-height:2;
-    letter-spacing:5px;
+    letter-spacing:2px;
 }
 .bold {
     font-weight:bold;
@@ -21,6 +19,7 @@ li.bold {
 #plug {
     color:blueviolet;
 }
+
 img {
     display: block;
     width: 70%;
